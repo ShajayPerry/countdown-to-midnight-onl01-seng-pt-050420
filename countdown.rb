@@ -5,6 +5,6 @@ while interger > 0
   puts "#{interger} SECOND(S)!"
   interger -= 0  
 end
-
+"HAPPY NEW YEAR!"
 
 end
