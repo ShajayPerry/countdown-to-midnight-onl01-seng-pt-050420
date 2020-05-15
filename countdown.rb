@@ -1,6 +1,6 @@
 #write your code here
 
 def countdown(Integer)
-while 
+while interger > 0 
 
 end
