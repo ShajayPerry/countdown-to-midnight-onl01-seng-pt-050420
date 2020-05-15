@@ -7,4 +7,3 @@ while interger > 0
 end
 "HAPPY NEW YEAR!"
 end
-countdown(10) 
