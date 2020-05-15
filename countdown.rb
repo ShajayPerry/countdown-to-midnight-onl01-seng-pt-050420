@@ -2,6 +2,6 @@
 
 def countdown(Integer)
 while interger > 0 
-  puts "#{interger} "
+  puts "#{interger} SECOND(S)!"
 
 end
